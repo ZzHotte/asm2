@@ -3,14 +3,14 @@
 <!--这一部分介绍背景
 -------------------------------------------------------------------------------------->
 ## 01 Background
-cse_valley is to develop a kernel for a farming game. Basically there is a grid and everything must occur here, the player's job is to act as a farmer to seed, grow, harvest and trade plants for his/her wellbeing. Here follows an image describe it.
+cse_valley is to develop a kernel for a farming game. The player's job is to act as a farmer to seed, grow, harvest and trade plants for his/her wellbeing. Everything must occur within the grid. Here follows an image describe it.
 
 <img width="584" alt="image" src="https://user-images.githubusercontent.com/86709726/211757318-35de89ae-5ed9-43fe-8b7b-66b725c75008.png">
 
 <!--这一部分介绍构思
 -------------------------------------------------------------------------------------->
 ## 02 Ideas
-I think there are three struct variables could be constructed to store the detailed informtion needed.
+It can be classidied as three struct variables that could be constructed to store the detailed informtion needed.
 - struct land, this is to store the state of an individual block of land, contains information include:
 ```c
 struct land {
