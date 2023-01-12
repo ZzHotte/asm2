@@ -3,7 +3,7 @@
 <!--这一部分介绍背景
 -------------------------------------------------------------------------------------->
 ## 01 Background
-The 'cse_valley' project is to develop a kernel for a farming game. The player's job is to act as a farmer to seed, grow, harvest and trade plants for his/her wellbeing. Everything must occur within the grid. Here follows an image describe it.
+The 'cseValley' project is to develop a kernel for a farming game. The player's job is to act as a farmer to seed, grow, harvest and trade plants for his/her wellbeing. Everything must occur within the grid. Here follows an image describe it.
 
 <img width="584" alt="image" src="https://user-images.githubusercontent.com/86709726/211757318-35de89ae-5ed9-43fe-8b7b-66b725c75008.png">
 
